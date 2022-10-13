@@ -16,7 +16,7 @@ CSS
 Nick Wilmas
 
 ## Deployment
-[Code Quiz](https://nickwilmas1.github.io/Code-Quiz/)
+[Code Quiz](https://nickwilmas1.github.io/Coding-Quiz/)
 
 ## Image 
 ![Alt text](https://i.gyazo.com/930bbd3040cb371fee151cc1304528a8.png "Coding quiz")
