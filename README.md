@@ -19,7 +19,7 @@ Nick Wilmas
 [Code Quiz](https://nickwilmas1.github.io/Code-Quiz/)
 
 ## Image 
-![Alt text](https://i.gyazo.com/945b96dd7713eef8689c41b76f8a3649.png "Password generator")
+![Alt text](https://i.gyazo.com/930bbd3040cb371fee151cc1304528a8.png "Coding quiz")
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
